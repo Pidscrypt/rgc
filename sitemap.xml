@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://rgc.co.ug/</loc>
+  <lastmod>2017-12-30T13:52:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://rgc.co.ug/index.html</loc>
+  <lastmod>2017-12-30T13:52:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rgc.co.ug/services/oil.html</loc>
+  <lastmod>2017-12-30T13:50:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rgc.co.ug/services/logistics.html</loc>
+  <lastmod>2017-12-30T13:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rgc.co.ug/services/construction.html</loc>
+  <lastmod>2017-12-30T13:50:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rgc.co.ug/services/interior.html</loc>
+  <lastmod>2017-12-30T13:50:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rgc.co.ug/letter.html</loc>
+  <lastmod>2017-12-29T06:29:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://rgc.co.ug/journals/RCG_prospectus_0.pdf</loc>
+  <lastmod>2017-12-29T06:34:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>

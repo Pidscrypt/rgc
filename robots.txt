@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /modules/
+Disallow: /plugins/
+Sitemap: http://www.rgc.co.ug/sitemap.xml
